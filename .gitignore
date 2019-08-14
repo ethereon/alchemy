@@ -1,0 +1,18 @@
+# OS X temporary metadata
+._*
+*.DS_Store
+
+# Extracted parameters
+*.params
+
+# Python cache
+__pycache__
+*.pyc
+*.egg-info
+
+# Misc caches
+.cache
+
+# IDEs
+.vscode
+

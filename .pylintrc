@@ -1,0 +1,21 @@
+[MASTER]
+extension-pkg-whitelist=numpy,tensorflow
+
+[MESSAGES CONTROL]
+disable=arguments-differ,
+        attribute-defined-outside-init,
+        bad-continuation,
+        invalid-name,
+        protected-access,
+        superfluous-parens,
+        too-few-public-methods,
+        too-many-ancestors,
+        missing-docstring,
+
+[MISCELLANEOUS]
+# Exclude TODOs
+notes=
+
+[FORMAT]
+# Maximum number of characters on a single line.
+max-line-length=120
