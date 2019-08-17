@@ -4,8 +4,7 @@ An implementation of the Xception architecture described in
     Xception: Deep Learning with Depthwise Separable Convolutions
     https://arxiv.org/abs/1610.02357
 
-This version supports dilated convolutions and is compatible with Google's
-implementation, as included in the DeepLab project.
+This variant is based on the version included with Google's DeepLab v3+.
 """
 
 from __future__ import annotations
