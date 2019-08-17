@@ -10,7 +10,7 @@ from merlin.modules.configurable import Module
 from merlin.modules.util import Sequential, get_submodule_by_path
 from merlin.ops.image import resample, legacy_aligned_resampler
 from merlin.spec import Spec
-from merlin.shape import Axis, ImageSize, get_spatial_size
+from merlin.shape import Axis, get_spatial_size
 from merlin.typing import Tensor, Size2D
 
 
