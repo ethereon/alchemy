@@ -25,6 +25,7 @@ python alchemy/models/deeplab/segment.py --input [input image path] --snapshot [
 The model weights below were ported from the ones published by Google.
 
 -   [DeepLab v3+ with Xception65 trained on PASCAL VOC](https://dl.bintray.com/ethereon/alchemy/alchemy-deeplab-xception65-pascal.tgz)
+-   [DeepLab v3+ with Xception65 trained on COCO](https://dl.bintray.com/ethereon/alchemy/alchemy-deeplab-xception65-coco.tgz)
 
 ---
 
